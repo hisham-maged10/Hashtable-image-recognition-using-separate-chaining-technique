@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526191827 source:e:\ds assignment 3\ds assignment 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1525591194 e:\ds assignment 3\ds assignment 3\includes.h
+	"Structs.h"
+
+1525580295 e:\ds assignment 3\ds assignment 3\structs.h
+	"includes.h"
+
+1525590697 e:\ds assignment 3\ds assignment 3\declarations.h
+	"includes.h"
+	"Structs.h"
+	<time.h>
+
