@@ -1,3 +1,8 @@
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
